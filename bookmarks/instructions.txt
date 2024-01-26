@@ -1,4 +1,0 @@
-Since most of these, being bookmarklets, arent self-explanitory, here ya go:
-
-- autoAnswer: run this at the beginning of your game. Any time you click on a question it will fill in the answer plus an "e". Hit backspace
-  after the e is inputted to make the game recognize you typing, give you the list of answers, and the bookmark will choose the right one.
